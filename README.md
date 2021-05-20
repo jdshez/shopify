@@ -1,2 +1,2 @@
 # shopify
-Creating an app for shopify with a custom template.
+Creating an app for shopify with a custom theme.
